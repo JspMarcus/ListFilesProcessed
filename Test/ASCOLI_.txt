@@ -1,0 +1,8 @@
+[ ]	report_FilesList.txt	.\Test	.\Test\report_FilesList.txt
+[ ]	foo.txt	.\Test	.\Test\foo.txt
+[ ]	_fooAB.txt	.\Test	.\Test\_fooAB.txt
+[ ]	fooAB.txt	.\Test	.\Test\fooAB.txt
+[ ]	ASCOLI.txt	.\Test	.\Test\ASCOLI.txt
+[ ]	ASCOLI_.txt	.\Test	.\Test\ASCOLI_.txt
+[ ]	FileProva001.txt	.\Test\PathA	.\Test\PathA\FileProva001.txt
+[ ]	perProvare Se funziona.txt	.\Test\PathA	.\Test\PathA\perProvare Se funziona.txt

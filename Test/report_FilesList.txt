@@ -1,0 +1,11 @@
+[ ]	FileProva001.txt	.	.\FileProva001.txt
+[ ]	perProvare Se funziona.txt	.	.\perProvare Se funziona.txt
+[ ]	BBB.txt	.	.\BBB.txt
+[ ]	ciSonoFile.xls	.	.\ciSonoFile.xls
+[ ]	GIF.txt	.\a.git	.\a.git\GIF.txt
+[ ]	AAA.txt	.\sottoDir	.\sottoDir\AAA.txt
+[ ]	BBB.txt	.	.\BBB.txt
+[ ]	ciSonoFile.xls	.	.\ciSonoFile.xls
+[ ]	FileProva001.txt	.	.\FileProva001.txt
+[ ]	AAA.txt	.\sottoDir	.\sottoDir\AAA.txt
+
